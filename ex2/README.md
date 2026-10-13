@@ -82,4 +82,5 @@ CMD ["node", "server.js"]
 
 > **Minh chứng hoàn thành bài tập (Bao gồm trạng thái build, container Up, logs và kết quả curl):**
 
-![alt text](image.png)
+<img width="1455" height="498" alt="image" src="https://github.com/user-attachments/assets/d2e1f821-d8c9-445d-9e90-b823a6d41d34" />
+
